@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App Share</string>
+    <string name="app_info">Application Information</string>
+    <string name="package_name">packageName :</string>
+    <string name="version_name">versionName :</string>
+    <string name="version_code">versionCode :</string>
+    <string name="first_install_time">firstInstallTime :</string>
+    <string name="last_update_time">lastUpdateTime :</string>
+    <string name="download">Download</string>
+    <string name="download_hint">Or you can download the apk from url below</string>
+    <string name="can_not_get_ip">can not get IP address</string>
+    <string name="share_all">Share All</string>
+    <string name="action_about">About</string>
+    <string name="ahout_author">Author : IMXQD</string>
+    <string name="ok">OK</string>
+    <string name="rate">Rate</string>
+</resources>

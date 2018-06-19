@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">应用分享</string>
+    <string name="app_info">应用信息</string>
+    <string name="package_name">包名 :</string>
+    <string name="version_name">版本号 :</string>
+    <string name="version_code">内部版本 :</string>
+    <string name="first_install_time">首次安装时间 :</string>
+    <string name="last_update_time">最近更新时间 :</string>
+    <string name="download">下载</string>
+    <string name="download_hint">你也可以从以下链接下载</string>
+    <string name="can_not_get_ip">无法获取IP地址</string>
+    <string name="share_all">分享所有</string>
+    <string name="action_about">关于</string>
+    <string name="ahout_author">作者 : IMXQD</string>
+    <string name="ok">好</string>
+    <string name="rate">评分</string>
+</resources>
